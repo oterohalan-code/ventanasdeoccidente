@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/3fzqavk2mrhqx.css","style"]
+:HL["/_next/static/chunks/3-j8ehyfcgacy.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"c","k":"ventanas-aluminio","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(public)","h":96,"c":"$Q2"}]]
-0:{"b":"sIWLuo6JKd9Surste8st8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ue_iR-qtBXbx17gx8kOCU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
