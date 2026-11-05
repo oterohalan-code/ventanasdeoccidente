@@ -1,35 +1,9 @@
-User-Agent: AdsBot-Google
-Allow: /
-Disallow: /admin
-Disallow: /api
-Disallow: /gracias
-Disallow: /seguimiento
-Disallow: /etiqueta
-
-User-Agent: AdsBot-Google-Mobile
-Allow: /
-Disallow: /admin
-Disallow: /api
-Disallow: /gracias
-Disallow: /seguimiento
-Disallow: /etiqueta
-
-User-Agent: AdsBot-Google-Mobile-Apps
-Allow: /
-Disallow: /admin
-Disallow: /api
-Disallow: /gracias
-Disallow: /seguimiento
-Disallow: /etiqueta
-
-User-Agent: Mediapartners-Google
-Allow: /
-Disallow: /admin
-Disallow: /api
-Disallow: /gracias
-Disallow: /seguimiento
-Disallow: /etiqueta
-
 User-Agent: *
-Disallow: /
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /gracias
+Disallow: /seguimiento
+Disallow: /etiqueta
 
+Sitemap: https://ventanasdeoccidente.com/sitemap.xml
