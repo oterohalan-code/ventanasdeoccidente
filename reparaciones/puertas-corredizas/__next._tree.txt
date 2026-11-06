@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/3p8tbhcqaqi38.css","style"]
+:HL["/_next/static/chunks/2mestt6_r-521.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"c","k":"reparaciones/puertas-corredizas","s":[]},"h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(public)","h":32,"c":"$Q2"}]]
-0:{"b":"OwnNOX0mNzhYuh1zSdJOb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"5P92vNJDmQB1iYmCSErgn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
